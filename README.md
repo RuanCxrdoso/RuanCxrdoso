@@ -5,7 +5,7 @@
 - Estudando um pouco de Front-End, com HTML5 e CSS3 a princípio 📚
 - Pretendo em breve me aprofundar na linguagem JavaScript e seus ecossistema, tanto para Front quanto para Back. 🔜
 
-<div style="display: inline_block"><br>
+<div style="display: inline_block">
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
