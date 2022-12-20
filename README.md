@@ -1,6 +1,6 @@
 ### Opa ! Me chamo Ruan, seja bem-vindo ao meu humilde repositório ! 🙂👌
 
-- Atualmente estou cursando o 4º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
+- Atualmente estou cursando o 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
 - Estudando Lógica de Programação com a linguagem Python 🐍
 - Estudando um pouco de Front-End, com HTML5 e CSS3 a princípio 📚
 - Pretendo em breve me aprofundar na linguagem JavaScript e seu ecossistema, tanto para Front quanto para Back 🔜
