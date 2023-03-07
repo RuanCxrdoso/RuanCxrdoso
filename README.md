@@ -2,7 +2,7 @@
 
 - Atualmente estou cursando o 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
 - Estudando Lógica de Programação com a linguagem JavaScript 🐍
-- Estudando um pouco de Front-End, com HTML5 e CSS3 e JavaScript 📚
+- Focado em Front End no momento, aprimorando meus conhecimentos em  CSS3, Sass, JavaScript e ReactJs 📚
 - Pretendo em breve me aprofundar ainda mais na linguagem JavaScript e seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
