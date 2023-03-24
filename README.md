@@ -1,6 +1,6 @@
 ### Opa ! Me chamo Ruan, seja bem-vindo ao meu humilde repositório ! 🙂👌
 
-- Atualmente estou no 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
+- Cursando atualmente o 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
 - Focado em Front End no momento, aprimorando meus conhecimentos em  CSS3, Sass, JavaScript e ReactJs 📚
 - Pretendo em breve me aprofundar ainda mais na linguagem JavaScript e seu ecossistema, tanto para Front quanto para Back 🔜
 
