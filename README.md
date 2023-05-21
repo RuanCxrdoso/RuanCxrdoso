@@ -1,7 +1,7 @@
 ### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! 🙂👌
 
 - Cursando atualmente o 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
-- Focado em Front End no momento, aprimorando meus conhecimentos em  CSS3, Sass, JavaScript e ReactJs 📚
+- Focado em Front End no momento, aprimorando meus conhecimentos em JavaScript e ReactJs ( Paralelamente com o NextJs e TailWindCSS ) 📚
 - Pretendo em breve me aprofundar ainda mais na linguagem JavaScript e seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
@@ -10,7 +10,7 @@
   <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Ruan-Sass" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg">
   <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg">
+  <img align="center" alt="Ruan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-line.svg">
   <img align="center" alt="Ruan-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-plain.svg">
 </div>
 
