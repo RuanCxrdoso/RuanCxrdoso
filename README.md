@@ -1,8 +1,8 @@
 ### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! 🙂👌
 
-- Cursando atualmente o 5º semestre do curso de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
+- Cursando atualmente o 5º semestre de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
 - Focado no Front End no momento, aprimorando meus conhecimentos em JavaScript e React, em paralelo com o NextJs e o TailWind CSS 📚
-- Pretendo em breve me aprofundar ainda mais na linguagem JavaScript e seu ecossistema, tanto para Front quanto para Back 🔜
+- Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
   <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
