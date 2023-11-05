@@ -1,7 +1,8 @@
 ### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! 🙂👌
 
-- Cursando atualmente o 5º semestre de Engenharia da Computação na Universidade Federal da Bahia (UFBA) 👨🏾‍💻
-- Focado no Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o NextJs e o TailWind CSS 📚
+- Cursando atualmente o 5º semestre de Engenharia da Computação na Universidade Federal da Bahia 📚
+- Desenvolvedor Front End na TITAN - Empresa Júnior de Engenharia da Computação da UFBA 👨🏾‍💻
+- Focado no Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o NextJs e o TailWind CSS ✅
 - Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
