@@ -2,7 +2,7 @@
 
 - Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia 📚
 - Desenvolvedor Front End na TITAN - Empresa Júnior de Engenharia da Computação da UFBA 👨🏾‍💻
-- Focado no Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o NextJs e o TailWind CSS ✅
+- Focado em Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o NextJs e o TailWind ✅
 - Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
@@ -21,8 +21,9 @@
 
 <div align="center"><br>
   <a href="https://github.com/RuanCxrdoso">
-  <img height="160em" src="https://readmestats.999857.xyz/api?username=RuanCxrdoso&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://readmestats.999857.xyz/api/top-langs/?username=RuanCxrdoso&layout=compact&langs_count=7&theme=dark"/>
+  <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=RuanCxrdoso&theme=react&show_icons=true&hide_border=true&count_private=true"/>
+  <img width="350px" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=RuanCxrdoso&theme=react&hide_border=true"/>
+  <img width="550px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCxrdoso&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
 <div align="center"><br>
