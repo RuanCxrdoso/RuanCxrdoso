@@ -2,7 +2,7 @@
 
 - Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia 📚
 - Desenvolvedor Front End na TITAN - Empresa Júnior de Engenharia da Computação da UFBA 👨🏾‍💻
-- Focado em Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o NextJs ✅
+- Focado em Front End no momento, aprimorando meus conhecimentos em TypeScript e React, em paralelo com o Next.js ✅
 - Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back 🔜
 
 <div style="display: inline_block" align="center">
