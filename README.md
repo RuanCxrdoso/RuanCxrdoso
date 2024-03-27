@@ -1,4 +1,4 @@
-### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! 🙂👌
+### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório !
 
 - Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia 📚
 - Desenvolvedor Front End na TITAN Computação Inteligente - Empresa Júnior de Engenharia de Computação da UFBA 👨🏾‍💻
