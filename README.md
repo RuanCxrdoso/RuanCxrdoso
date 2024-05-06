@@ -30,7 +30,7 @@
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## Contatos
+## Contato
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruancardosolinkdin/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rcardoso.vercel.app)
