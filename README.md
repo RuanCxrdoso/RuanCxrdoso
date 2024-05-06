@@ -2,8 +2,6 @@
 
 <img width=100% src="https://github.com/RuanCxrdoso/RuanCxrdoso/assets/86266893/b0040b21-5189-486e-9c62-c6800e0b0c7b"/>
 
-<div align='center'>
-
 <div align="center">  
   
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanCxrdoso&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
@@ -12,11 +10,9 @@
   
 </div>
 
-</div>
-
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-<div><br />
+<div>
 
 ## Minhas Skills
 
