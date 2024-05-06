@@ -1,35 +1,43 @@
-### Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! 🙂👌
+<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-- Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia 📚
-- Desenvolvedor Front End na TITAN Computação Inteligente - Empresa Júnior de Engenharia de Computação da UFBA 👨🏾‍💻
-- Focado em Front End, sigo me aprimorando no desenvolvimento de interfaces com React e Next.js utilizando o TypeScript ✅
-- Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back 🔜
+<img width=100% src="https://github.com/RuanCxrdoso/RuanCxrdoso/assets/86266893/b0040b21-5189-486e-9c62-c6800e0b0c7b"/>
 
-<div style="display: inline_block" align="center">
-  <img align="center" alt="Ruan-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Ruan-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Ruan-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Ruan-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg"/>   
-  <img align="center" alt="Ruan-React" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="Ruan-Next" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg">
-  <img align="center" alt="Ruan-Vite" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg">
-  <img align="center" alt="Ruan-Tail" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg">
-  <img align="center" alt="Ruan-Boot" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg">
-  <img align="center" alt="Ruan-Axios" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/axios/axios-plain.svg">
+<div align='center'>
+
+<div align="center">  
+  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=RuanCxrdoso&show_icons=true&count_private=true&title_color=80F7D4&icon_color=9d00ff&text_color=c9d1d9&bg_color=0d1117&border_color=fff0" /> 
+  
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCxrdoso&layout=compact&title_color=80F7D4&text_color=fff&bg_color=0d1117&border_color=fff0" />
+  
 </div>
 
-##
-
-<div align="center"><br>
-  <a href="https://github.com/RuanCxrdoso">
-  <img width="350px" height="140em" src="https://github-readme-stats.vercel.app/api?username=RuanCxrdoso&theme=react&show_icons=true&hide_border=true&count_private=true"/>
-  <img width="350px" height="140em" src="https://github-readme-streak-stats.herokuapp.com/?user=RuanCxrdoso&theme=react&hide_border=true"/>
-  <img width="550px" height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RuanCxrdoso&theme=react&show_icons=true&hide_border=true&layout=compact"/>
 </div>
 
-<div align="center"><br>
-  <a href="https://www.instagram.com/cxrdoso__/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/se5pAUbK" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:cardosoruan2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/ruancardosolinkdin/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+<div><br />
+
+## Minhas Skills
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,materialui,tailwind,bootstrap,git,github&theme=dark" />
+
+## About me
+
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! <br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Desenvolvedor Front End na TITAN Computação Inteligente - Empresa Júnior de Engenharia de Computação da UFBA.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Focado em Front End, sigo me aprimorando no desenvolvimento de interfaces com React e Next.js utilizando o TypeScript.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back.
+
+<br />
+
+<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
+
+## Contact me
+
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruancardosolinkdin/)
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rcardoso.vercel.app)
+<a href = "mailto:cardosoruan2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
