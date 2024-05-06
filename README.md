@@ -18,7 +18,7 @@
 
 <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,materialui,tailwind,bootstrap,git,github&theme=dark" />
 
-## About me
+## Sobre mim
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! <br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia.<br />
@@ -30,7 +30,7 @@
 
 <img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
 
-## Contact me
+## Contatos
 
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruancardosolinkdin/)
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rcardoso.vercel.app)
