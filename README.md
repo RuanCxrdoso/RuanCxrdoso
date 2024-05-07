@@ -10,13 +10,11 @@
   
 </div>
 
-<img src="./.github/assets/lineBar.png" width="100%" height="8px"/>
-
 <div>
 
 ## Minhas Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,materialui,tailwind,bootstrap,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,vitest,materialui,tailwind,bootstrap,git,github&theme=dark" />
 
 ## Sobre mim
 
