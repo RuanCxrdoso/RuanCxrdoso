@@ -1,6 +1,6 @@
 <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
 
-<img width=100% src="https://github.com/RuanCxrdoso/RuanCxrdoso/assets/86266893/b0040b21-5189-486e-9c62-c6800e0b0c7b"/>
+<img width=100% src="https://github.com/RuanCxrdoso/RuanCxrdoso/assets/86266893/db0fdad3-c9e3-45d2-810f-986302742995"/>
 
 <div align="center">  
   
