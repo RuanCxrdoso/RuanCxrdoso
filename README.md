@@ -1,6 +1,11 @@
-<!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=80F7D4&height=120&section=header"/> -->
-
 <img width=100% src="https://github.com/RuanCxrdoso/RuanCxrdoso/assets/86266893/db0fdad3-c9e3-45d2-810f-986302742995"/>
+
+<div></div>
+<br>
+
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2500&color=F2A900&center=true&random=false&width=635&lines=Desenvolvedor+Front+End+%40+TITAN;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+-+UFBA" alt="Typing SVG" /></a>
+</div>
 
 <div align="center">  
   
@@ -31,4 +36,4 @@
 [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://rcardoso.vercel.app)
 <a href = "mailto:cardosoruan2001@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:3CAAFF,100:5bffff&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:F2A900,100:F2A900&height=120&section=footer"/>
