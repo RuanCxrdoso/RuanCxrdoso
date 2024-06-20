@@ -19,7 +19,7 @@
 
 ## Minhas Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,vitest,materialui,tailwind,bootstrap,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,git,github&theme=dark" />
 
 ## Sobre mim
 
