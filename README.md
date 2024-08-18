@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=2500&color=F2A900&center=true&random=false&width=635&lines=Desenvolvedor+Front+End+%40+TITAN;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+-+UFBA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=2500&color=F2A900&center=true&random=false&width=635&lines=Desenvolvedor+Front+End+%40+TITAN;Desenvolvedor+Front+End+%40+iTech;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+-+UFBA" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">  
@@ -19,7 +19,7 @@
 
 ## Minhas Skills
 
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,bootstrap,git,github&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vite,tailwind,materialui,bootstrap,git,github&theme=dark" />
 
 ## Sobre mim
 
