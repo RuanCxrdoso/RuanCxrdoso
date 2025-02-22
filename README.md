@@ -4,7 +4,7 @@
 <br>
 
 <div align="center">
-  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=2500&color=F2A900&center=true&random=false&width=635&lines=Desenvolvedor+Front+End+%40+TITAN;Desenvolvedor+Front+End+%40+iTech;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+-+UFBA" alt="Typing SVG" /></a>
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=2500&color=F2A900&center=true&random=false&width=635&lines=Gerente+Front+End+%40+TITAN;Desenvolvedor+de+Software+%40+iTech;Estudante+de+Engenharia+da+Computa%C3%A7%C3%A3o+-+UFBA" alt="Typing SVG" /></a>
 </div>
 
 <div align="center">  
@@ -24,10 +24,10 @@
 ## Sobre mim
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Hand%20with%20Fingers%20Splayed%20Light%20Skin%20Tone.png" alt="Hand with Fingers Splayed Light Skin Tone" width="25" height="25" /> Opa ! Me chamo Ruan, seja bem-vindo ao meu repositório ! <br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Cursando atualmente o 6º semestre de Engenharia da Computação na Universidade Federal da Bahia.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Desenvolvedor Front End na TITAN Computação Inteligente - Empresa Júnior de Engenharia de Computação da UFBA.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Focado em Front End, sigo me aprimorando no desenvolvimento de interfaces com React e Next.js utilizando o TypeScript.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Pretendo em breve me aprofundar ainda mais no JavaScript e todo o seu ecossistema, tanto para Front quanto para Back.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Cursando atualmente o 7º semestre de Engenharia da Computação na Universidade Federal da Bahia.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Man%20Technologist%20Light%20Skin%20Tone.png" alt="Man Technologist Light Skin Tone" width="25" height="25" /> Gerente Front End na TITAN Computação Inteligente - Empresa Júnior de Engenharia de Computação da UFBA.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Focado na área de softwares, sigo me aprimorando no desenvolvimento de aplicações escaláveis e performáticas utilizando as principais tecnologias do mercado.<br />
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Pretendo me aprofundar ainda mais nesse mundo dos softwares, sempre absorvendo desde conceitos básicos até os mais complexos.
 
 
 ## Contato
