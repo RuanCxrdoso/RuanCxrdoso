@@ -19,7 +19,7 @@ profile:
   company: "iTech Tecnologia"
   location: "Salvador, BA"
   bio: |
-  - "Passionate about building scalable web applications and exploring new technologies."
+    - "Passionate about building scalable web applications and exploring new technologies."
   philosophy: '"Solve problems with code, and keep learning every day."'
 
 # Social links displayed at the bottom of the profile
