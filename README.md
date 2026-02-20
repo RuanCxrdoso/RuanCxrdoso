@@ -34,7 +34,7 @@
 
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Brain.png" alt="Brain" width="25" height="25" /> Cursando atualmente o 9º semestre de Engenharia da Computação na Universidade Federal da Bahia.<br />
 - <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People%20with%20professions/Boy%20Light%20Skin%20Tone.png" alt="Boy Light Skin Tone" width="25" height="25" /> Focado no desenvolvimento de softwares escaláveis e de alta performance, comprometido em aplicar os melhores princípios de programação para criar soluções robustas e manuteníveis.<br />
-- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Visão de futuro direcionada no parofundamente em conceitos teóricos fundamentais para a base da computação além da aplicação de LLMs como agentes de solução de problemas comuns da sociedade.
+- <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Left%20Speech%20Bubble.png" alt="Left Speech Bubble" width="25" height="25" /> Visão de futuro direcionada no aprofundamento em conceitos teóricos fundamentais para a base da computação além da aplicação de LLMs como agentes para solução de problemas comuns da sociedade.
 
 ## Minhas Skills
 
