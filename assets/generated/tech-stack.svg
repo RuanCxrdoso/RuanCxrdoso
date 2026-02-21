@@ -6,7 +6,7 @@
         fill="#0f1623" stroke="#1a2332" stroke-width="1"/>
 
   <!-- Left: Language Telemetry -->
-  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">LANGUAGE TELEMETRY</text>
+  <text x="30" y="38" fill="#64748b" font-size="11" font-family="monospace" letter-spacing="3">LANGUAGES</text>
 
   <!-- Vertical divider -->
   <line x1="425" y1="25" x2="425" y2="215" stroke="#1a2332" stroke-width="1" opacity="0.4"/>
@@ -60,7 +60,7 @@
     <circle cx="637" cy="140" r="22" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
     <circle cx="637" cy="140" r="44" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
     <circle cx="637" cy="140" r="65" fill="none" stroke="#64748b" stroke-width="0.5" stroke-dasharray="3,3" opacity="0.25"/>
-    <path d="M 637 140 L 638.1 75.0 A 65 65 0 0 1 693.9 171.5 Z" fill="#a78bfa" fill-opacity="0.10" stroke="#a78bfa" stroke-opacity="0.3" stroke-width="0.5"/>
+    <path d="M 637 140 L 638.1 75.0 A 65 65 0 0 1 693.9 171.5 Z" fill="#61DBFB" fill-opacity="0.10" stroke="#61DBFB" stroke-opacity="0.3" stroke-width="0.5"/>
     <path d="M 637 140 L 692.7 173.5 A 65 65 0 0 1 581.3 173.5 Z" fill="#C52613" fill-opacity="0.10" stroke="#C52613" stroke-opacity="0.3" stroke-width="0.5"/>
     <path d="M 637 140 L 580.1 171.5 A 65 65 0 0 1 635.9 75.0 Z" fill="#f2a900" fill-opacity="0.10" stroke="#f2a900" stroke-opacity="0.3" stroke-width="0.5"/>
     <line x1="637" y1="140" x2="637.0" y2="75.0" stroke="#64748b" stroke-width="0.5" opacity="0.3"/>
@@ -68,36 +68,36 @@
     <line x1="637" y1="140" x2="580.7" y2="172.5" stroke="#64748b" stroke-width="0.5" opacity="0.3"/>
     <g>
       <!-- Sweep trail -->
-      <path d="M 637 140 L 604.5 83.7 A 65 65 0 0 1 637.0 75.0 Z" fill="#C52613" fill-opacity="0.07"/>
+      <path d="M 637 140 L 604.5 83.7 A 65 65 0 0 1 637.0 75.0 Z" fill="#00d4ff" fill-opacity="0.07"/>
       <!-- Outer wedge -->
-      <polygon points="634.5,140 637,75 639.5,140" fill="#C52613" opacity="0.25"/>
+      <polygon points="634.5,140 637,75 639.5,140" fill="#00d4ff" opacity="0.25"/>
       <!-- Inner bright core -->
-      <polygon points="636.2,140 637,75 637.8,140" fill="#C52613" opacity="0.5"/>
+      <polygon points="636.2,140 637,75 637.8,140" fill="#00d4ff" opacity="0.5"/>
       <!-- Tip glow -->
-      <circle cx="637" cy="75" r="2" fill="#C52613" opacity="0.6">
+      <circle cx="637" cy="75" r="2" fill="#00d4ff" opacity="0.6">
         <animate attributeName="opacity" values="0.4;0.8;0.4" dur="2s" repeatCount="indefinite"/>
       </circle>
       <animateTransform attributeName="transform" type="rotate" from="0 637 140" to="360 637 140" dur="8s" repeatCount="indefinite"/>
     </g>
-    <text x="708.9" y="98.5" fill="#a78bfa" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Front-end</text>
+    <text x="708.9" y="98.5" fill="#61DBFB" font-size="9" font-family="monospace" text-anchor="start" dominant-baseline="middle">Front-end</text>
     <text x="708.9" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="start" dominant-baseline="middle">(5)</text>
     <text x="637.0" y="223.0" fill="#C52613" font-size="9" font-family="monospace" text-anchor="middle" dominant-baseline="middle">Back-end</text>
     <text x="637.0" y="235.0" fill="#64748b" font-size="8" font-family="monospace" text-anchor="middle" dominant-baseline="middle">(4)</text>
     <text x="565.1" y="98.5" fill="#f2a900" font-size="9" font-family="monospace" text-anchor="end" dominant-baseline="middle">General</text>
     <text x="565.1" y="110.5" fill="#64748b" font-size="8" font-family="monospace" text-anchor="end" dominant-baseline="middle">(4)</text>
-    <circle cx="641.6" cy="116.4" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="641.6" cy="116.4" r="3" fill="#61DBFB" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="7.94s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="660.2" cy="107.4" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="660.2" cy="107.4" r="3" fill="#61DBFB" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="0.49s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="685.5" cy="112.0" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="685.5" cy="112.0" r="3" fill="#61DBFB" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="1.03s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="660.9" cy="137.7" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="660.9" cy="137.7" r="3" fill="#61DBFB" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="1.58s" repeatCount="indefinite"/>
     </circle>
-    <circle cx="674.8" cy="153.0" r="3" fill="#a78bfa" opacity="0.35">
+    <circle cx="674.8" cy="153.0" r="3" fill="#61DBFB" opacity="0.35">
       <animate attributeName="opacity" values="0.35;0.35;1.0;0.35;0.35" keyTimes="0;0.04;0.06;0.10;1" dur="8s" begin="2.12s" repeatCount="indefinite"/>
     </circle>
     <circle cx="655.1" cy="155.7" r="3" fill="#C52613" opacity="0.35">
