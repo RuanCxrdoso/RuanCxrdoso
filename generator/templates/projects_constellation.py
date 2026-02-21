@@ -164,7 +164,7 @@ def _build_title_area(n, width, height, theme):
     # Section title
     title_parts.append(
         f'  <text x="30" y="38" fill="{theme["text_faint"]}" font-size="11" '
-        f'font-family="monospace" letter-spacing="3">FEATURED SYSTEMS</text>'
+        f'font-family="monospace" letter-spacing="3">PROJECTS</text>'
     )
     # Pulsing status dot
     cyan = theme.get("synapse_cyan", "#00d4ff")
@@ -176,7 +176,7 @@ def _build_title_area(n, width, height, theme):
     # Right-aligned status text
     title_parts.append(
         f'  <text x="{width - 30}" y="38" fill="{theme["text_faint"]}" font-size="10" '
-        f'font-family="monospace" text-anchor="end" opacity="0.5">SYS {n}/{n} ONLINE</text>'
+        f'font-family="monospace" text-anchor="end" opacity="0.5">PROJ {n}/{n} ONLINE</text>'
     )
     return "\n".join(title_parts)
 

@@ -52,11 +52,7 @@
 
 ### 🔧 Ferramentas gerais
 
-<img src="https://skillicons.dev/icons?i=vitest,jest,postman,git,github&theme=dark" />
-
-### 🖥️ Sistemas Operacionais
-
-<img src="https://skillicons.dev/icons?i=windows,mint,ubuntu&theme=dark" />
+<img src="https://skillicons.dev/icons?i=vitest,jest,postman,git,github,windows,mint,ubuntu&theme=dark" />
 
 ## Contato
 

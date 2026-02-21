@@ -33,7 +33,7 @@ social:
 # Available colors: "synapse_cyan", "dendrite_violet", "axon_amber"
 galaxy_arms:
   - name: "Front-end"
-    color: "dendrite_violet"
+    color: "react_blue"
     items:
       - "TypeScript"
       - "React"
@@ -41,14 +41,14 @@ galaxy_arms:
       - "Next.js"
       - "Tailwind CSS"
   - name: "Back-end"
-    color: "synapse_cyan"
+    color: "flamengo_red"
     items:
       - "Node.js"
       - "Fastify"
       - "Nest.js"
       - "PostgreSQL"
   - name: "General"
-    color: "axon_amber"
+    color: "TITAN_yellow"
     items:
       - "Docker"
       - "GitHub Actions"
@@ -74,12 +74,15 @@ theme:
   void: "#080c14"              # Darkest background
   nebula: "#0f1623"            # Card backgrounds
   star_dust: "#1a2332"         # Borders, dividers
-  synapse_cyan: "#C52613"      # Primary accent (arm color 1)
+  synapse_cyan: "#00d4ff"      # Primary accent (arm color 1)
   dendrite_violet: "#a78bfa"   # Secondary accent (arm color 2)
-  axon_amber: "#f2a900"        # Tertiary accent (arm color 3)
+  axon_amber: "#ffb020"        # Tertiary accent (arm color 3)
   text_bright: "#f1f5f9"       # Primary text
   text_dim: "#94a3b8"          # Secondary text
   text_faint: "#64748b"        # Muted text, labels
+  flamengo_red: "#C52613"      # Flamengo primary red color
+  react_blue: "#61DBFB"        # React signature blue
+  TITAN_yellow: "#f2a900"      # TITAN signature yellow
 
 # Stats configuration — which metrics to show on the telemetry card
 stats:
