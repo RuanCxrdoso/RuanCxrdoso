@@ -61,9 +61,9 @@ galaxy_arms:
 #   arm: 0-2                  — Which galaxy arm to associate with (index)
 #   description: "..."        — Short description shown on the card
 projects:
-  - repo: "Burger-Landing"
+  - repo: "help-desk-back"
     arm: 0
-    description: "A landing page for a burger restaurant, built with React and Tailwind CSS."
+    description: "A help desk API made with Nest.js and."
   - repo: "nest-clean"
     arm: 1
     description: "An forum API in Nest.js, following clean architecture and SOLID principles."
