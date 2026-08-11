@@ -340,8 +340,8 @@
     <text x="186.0" y="196.3" text-anchor="end" fill="#f2a900" font-size="9" font-family="monospace" opacity="0.85">Linux</text>
 
   <!-- 9. Project stars -->
-    <circle cx="464.1" cy="86.5" r="4" fill="#61DBFB" filter="url(#star-glow-0)">
-      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.0s" repeatCount="indefinite"/>
+    <circle cx="623.9" cy="202.4" r="4" fill="#C52613" filter="url(#star-glow-1)">
+      <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.8s" repeatCount="indefinite"/>
     </circle>
     <circle cx="623.9" cy="202.4" r="4" fill="#C52613" filter="url(#star-glow-1)">
       <animate attributeName="opacity" values="0.6;1;0.6" dur="4s" begin="0.8s" repeatCount="indefinite"/>
