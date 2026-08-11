@@ -62,7 +62,7 @@ galaxy_arms:
 #   description: "..."        — Short description shown on the card
 projects:
   - repo: "help-desk-back"
-    arm: 0
+    arm: 1
     description: "A help desk API made with Nest.js and."
   - repo: "nest-clean"
     arm: 1
