@@ -133,7 +133,8 @@
     <circle cx="226.66666666666666" cy="85" r="5" fill="#C52613" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.0s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.0s" repeatCount="indefinite"/></circle>
     <circle cx="226.66666666666666" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="226.66666666666666" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">help-desk-back</text>
-    <text x="226.66666666666666" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">A help desk API made with Nest.js and.</text>
+    <text x="226.66666666666666" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Help-Desk API made with Nest.js, Prisma,</text>
+    <text x="226.66666666666666" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Postgres and Docker.</text>
     <rect x="190.66666666666666" y="163" width="72" height="18" rx="9" ry="9" fill="#C52613" opacity="0.12"/>
     <text x="226.66666666666666" y="175" fill="#C52613" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Back-end</text>
   </g>
@@ -149,7 +150,7 @@
     <circle cx="623.3333333333334" cy="85" r="5" fill="#C52613" opacity="0.7"><animate attributeName="opacity" values="0.5;0.9;0.5" dur="3s" begin="0.3s" repeatCount="indefinite"/><animate attributeName="r" values="4.5;5.5;4.5" dur="3s" begin="0.3s" repeatCount="indefinite"/></circle>
     <circle cx="623.3333333333334" cy="85" r="2" fill="#ffffff" opacity="0.9"/>
     <text x="623.3333333333334" y="111" fill="#f1f5f9" font-size="14" font-weight="bold" font-family="sans-serif" text-anchor="middle">nest-clean</text>
-    <text x="623.3333333333334" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">An forum API in Nest.js, following clean</text>
+    <text x="623.3333333333334" y="129" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">Forum API made with Nest.js, following clean</text>
     <text x="623.3333333333334" y="144" fill="#94a3b8" font-size="11" font-family="sans-serif" text-anchor="middle">architecture and SOLID principles.</text>
     <rect x="587.3333333333334" y="163" width="72" height="18" rx="9" ry="9" fill="#C52613" opacity="0.12"/>
     <text x="623.3333333333334" y="175" fill="#C52613" font-size="9" font-family="monospace" text-anchor="middle" opacity="0.85">Back-end</text>
