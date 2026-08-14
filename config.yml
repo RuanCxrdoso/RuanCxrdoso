@@ -63,10 +63,10 @@ galaxy_arms:
 projects:
   - repo: "help-desk-back"
     arm: 1
-    description: "A help desk API made with Nest.js and."
+    description: "Help-Desk API made with Nest.js, Prisma, Postgres and Docker."
   - repo: "nest-clean"
     arm: 1
-    description: "An forum API in Nest.js, following clean architecture and SOLID principles."
+    description: "Forum API made with Nest.js, following clean architecture and SOLID principles."
 
 # Theme color overrides (optional — defaults to deep space palette)
 # All values must be valid hex color codes (#RRGGBB)
